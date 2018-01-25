@@ -1,0 +1,12 @@
+{
+  "name": "ChatBotServices",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "express": "^4.13.4"
+  }
+}
